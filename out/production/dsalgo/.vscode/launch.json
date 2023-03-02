@@ -1,0 +1,231 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Question3",
+            "request": "launch",
+            "mainClass": "scaler.week3.primeNosAndPrimeFactorization.assignment.Question3",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "selfpractice.sorting.QuickSort",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch _189_RotateArrayByK",
+            "request": "launch",
+            "mainClass": "leetcode._189_RotateArrayByK",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch _035_SearchInsertPosition",
+            "request": "launch",
+            "mainClass": "leetcode._035_SearchInsertPosition",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch _278_BadVersion",
+            "request": "launch",
+            "mainClass": "leetcode._278_BadVersion",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch _704_BinarySearch",
+            "request": "launch",
+            "mainClass": "leetcode._704_BinarySearch",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch RainwaterTrapping",
+            "request": "launch",
+            "mainClass": "selfpractice.twopointers.RainwaterTrapping",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question2",
+            "request": "launch",
+            "mainClass": "scaler.week3.primeNosAndPrimeFactorization.assignment.Question2",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tester",
+            "request": "launch",
+            "mainClass": "common.Tester",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeFactorsN",
+            "request": "launch",
+            "mainClass": "selfpractice.PrimeFactorsN",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxMin",
+            "request": "launch",
+            "mainClass": "interviewbit.arrays.MaxMin",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch PangramCheck",
+            "request": "launch",
+            "mainClass": "interviewbit.timecomplexity.PangramCheck",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question5",
+            "request": "launch",
+            "mainClass": "scaler.week3.maths2.assignment.Question5",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question4",
+            "request": "launch",
+            "mainClass": "scaler.week3.maths2.assignment.Question4",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question3",
+            "request": "launch",
+            "mainClass": "scaler.week3.maths2.assignment.Question3",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question2",
+            "request": "launch",
+            "mainClass": "scaler.week3.maths2.assignment.Question2",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question5",
+            "request": "launch",
+            "mainClass": "scaler.week3.maths2.homework.Question5",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question4",
+            "request": "launch",
+            "mainClass": "scaler.week3.maths2.homework.Question4",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch AllSubsequenceString",
+            "request": "launch",
+            "mainClass": "selfpractice.AllSubsequenceString",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch AllSubsequence",
+            "request": "launch",
+            "mainClass": "random.AllSubsequence",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch RepeatedSubtraction",
+            "request": "launch",
+            "mainClass": "scaler.week3.maths2.homework.RepeatedSubtraction",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch RectanglesOverlap",
+            "request": "launch",
+            "mainClass": "scaler.week3.maths2.homework.RectanglesOverlap",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindGcd",
+            "request": "launch",
+            "mainClass": "scaler.FindGcd",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingleNumber",
+            "request": "launch",
+            "mainClass": "scaler.SingleNumber",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberOf1Bits",
+            "request": "launch",
+            "mainClass": "scaler.NumberOf1Bits",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch TotalSetBits",
+            "request": "launch",
+            "mainClass": "scaler.TotalSetBits",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddBinaryStrings",
+            "request": "launch",
+            "mainClass": "scaler.AddBinaryStrings",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atleast2Greater",
+            "request": "launch",
+            "mainClass": "scaler.Atleast2Greater",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinimumPicks",
+            "request": "launch",
+            "mainClass": "scaler.MinimumPicks",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintingPattern",
+            "request": "launch",
+            "mainClass": "scaler.PrintingPattern",
+            "projectName": "dsalgo_fa229841"
+        },
+        {
+            "type": "java",
+            "name": "Launch SmallerOrGreater",
+            "request": "launch",
+            "mainClass": "scaler.SmallerOrGreater",
+            "projectName": "dsalgo_fa229841"
+        }
+    ]
+}

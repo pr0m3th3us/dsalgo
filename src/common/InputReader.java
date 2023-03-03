@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 import org.apache.commons.lang3.StringUtils;
 
 public class InputReader implements AutoCloseable {
-    private static final File TEST_INPUT = new File("./common/test-input");
+    private static final File TEST_INPUT = new File("./src/common/test-input");
 
     private Scanner scanner;
 

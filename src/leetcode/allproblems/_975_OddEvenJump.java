@@ -7,12 +7,12 @@ import java.util.TreeMap;
 
 public class _975_OddEvenJump {
     public static void main(String[] args) {
-        new _975_OddEvenJump().oddEvenJumps(InputReader.readIntArray());
+        System.out.println(new _975_OddEvenJump().oddEvenJumps(InputReader.readIntArray()));
     }
 
     public int oddEvenJumps(int[] arr) {
         int n = arr.length;
-        boolean high[] = new boolean[n], low[] = new boolean[n];
+        boolean[] high = new boolean[n], low = new boolean[n];
 
         high[n - 1] = true;
         low[n - 1] = true;

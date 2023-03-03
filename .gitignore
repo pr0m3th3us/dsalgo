@@ -1,8 +1,11 @@
 /.gradle
 /.history
 /.idea
+/.vs
+/bin
 /build
 /gradle
 /lib
 /out
 /src/common/test-input
+/build.gradle

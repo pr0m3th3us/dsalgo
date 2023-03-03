@@ -1,6 +1,8 @@
+/.gradle
 /.history
 /.idea
-/.vscode
+/build
+/gradle
+/lib
 /out
-/dsalgo.iml
-/common/test-input
+/src/common/test-input
